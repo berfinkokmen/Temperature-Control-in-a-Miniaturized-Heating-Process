@@ -19,3 +19,6 @@ Watch the project in action here:
 
 ## Final Report
 - [Project Final Report (PDF)](https://github.com/berfinkokmen/Temperature-Control-in-a-Miniaturized-Heating-Process/blob/main/EE407-Process%20Control%20Term%20Project%20Report%20.pdf)
+  
+## Project Group Members
+Yiğit Sayar, Özge Deniz Ateş, Berfin Kokmen.
